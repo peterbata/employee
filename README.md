@@ -1,4 +1,4 @@
-# Employee Manager Brad
+# Employee Manager
 
 > Vue.js app to manage employees that uses FireStore as a backend.
 
